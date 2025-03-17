@@ -5,7 +5,11 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Atharva Solanke</h1>
 <h3 align="center">Full Stack Developer 💻  Cloud and Devops 🌐 </h3>
 
-<p></p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=atharvasolanke&label=Profile%20views&color=00fffd&style=flat" alt="atharvasolanke" /> </p>
+<p style="color: black; text-align: center; font-size: 18px; font-family: Arial, sans-serif;">
+    <img src="https://komarev.com/ghpvc/?username=atharvasolanke&label=Profile%20views&color=00fffd&style=flat" 
+    alt="atharvasolanke" 
+    style="border-radius: 10px; padding: 10px; background-color: cyan;"/>
+</p>
 
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
