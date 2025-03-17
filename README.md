@@ -1,5 +1,11 @@
+<div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> </div>
+
+###
+
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Atharva Solanke</h1>
 <h3 align="center">Full Stack Developer 💻  Cloud and Devops 🌐 </h3>
+
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 <p></p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=atharvasolanke&label=Profile%20views&color=0e75b6&style=flat" alt="atharvasolanke" /> </p>
 
