@@ -3,13 +3,16 @@
 ###
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Atharva Solanke</h1>
-<h3 align="center">Full Stack Developer 💻  Cloud and Devops 🌐 </h3>
-
-<p style="color: black; text-align: center; font-size: 18px; font-family: Arial, sans-serif;">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
+    <h3 style="color: black; font-size: 22px; font-family: Arial, sans-serif; margin: 0;">
+        Full Stack Developer 💻 Cloud and DevOps 🌐
+    </h3>
+    
     <img src="https://komarev.com/ghpvc/?username=atharvasolanke&label=Profile%20views&color=00fffd&style=flat" 
-    alt="atharvasolanke" 
-    style="border-radius: 10px; padding: 10px; background-color: cyan;"/>
-</p>
+        alt="atharvasolanke" 
+        style="border-radius: 10px; padding: 5px; background-color: cyan;"/>
+</div>
+
 
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
