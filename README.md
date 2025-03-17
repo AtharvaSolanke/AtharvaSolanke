@@ -9,7 +9,7 @@
 
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
-🎓 I’m a third-year Computer Engineering student working on Full Stack, Cloud and Devops !<br><br>🌱 I’m currently learning DevOps<br><br>🌐 Have a look at my Portfolio : [Portfolio Link](atharvas.vercel.app)<br><br>🚀 All of my projects are available at [GitHub Link](https://github.com/AtharvaSolanke)<br><br>💬 Ask me about Data Structures, Algorithm Full Stack Development, Cloud, DevOps<br><br>📫 How to reach me: atharva23.work@gmail.com<br><br>📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/12QFMR9NhmJ_HBri5zf-1_UJp3i-24Zgl/view)<br><br>⚡ Fun fact: I create Content about Tech... Go to my YouTube Channel<br><br>✍️ My favorite quote 🤔 : " HOPE can drive a man INSANE "
+🎓 I’m a third-year Computer Engineering student working on Full Stack, Cloud and Devops !<br><br>🌱 I’m currently learning DevOps<br><br>🌐 Have a look at my Portfolio : [Portfolio Link](https://atharvas.vercel.app/)<br><br>🚀 All of my projects are available at [GitHub Link](https://github.com/AtharvaSolanke)<br><br>💬 Ask me about Data Structures, Algorithm Full Stack Development, Cloud, DevOps<br><br>📫 How to reach me: atharva23.work@gmail.com<br><br>📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/12QFMR9NhmJ_HBri5zf-1_UJp3i-24Zgl/view)<br><br>⚡ Fun fact: I create Content about Tech... Go to my YouTube Channel<br><br>✍️ My favorite quote 🤔 : " HOPE can drive a man INSANE "
 
 
 ## 🌐 Socials:
