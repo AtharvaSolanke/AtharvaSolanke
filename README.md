@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Atharva Solanke</h1>
 
-<h3 aligh="center">
+<h3 align="center">
         Full Stack Developer 💻 Cloud and DevOps 🌐
 </h3>
     
