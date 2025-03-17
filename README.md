@@ -7,10 +7,9 @@
     <h3 style="color: black; font-size: 22px; font-family: Arial, sans-serif; margin: 0;">
         Full Stack Developer 💻 Cloud and DevOps 🌐
     </h3>
-    
-<img src="https://komarev.com/ghpvc/?username=atharvasolanke&label=Profile%20views&color=00fffd&style=flat" 
-        alt="atharvasolanke" 
-        style="border-radius: 10px; padding: 5px; background-color: cyan;"/>
+    <div>
+        <img src="https://komarev.com/ghpvc/?username=atharvasolanke&label=Profile%20views&color=00185e&style=flat" alt="atharvasolanke"/>
+    </div>
 </div>
 
 
