@@ -8,7 +8,7 @@
         Full Stack Developer 💻 Cloud and DevOps 🌐
 </h3>
     
-<img align="center" src="https://komarev.com/ghpvc/?username=atharvasolanke&label=Profile%20views&color=0e75b6&style=flat" alt="atharvasolanke"/>
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=atharvasolanke&label=Profile%20views&color=0e75b6&style=flat" alt="atharvasolanke"/> </p>
 
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
