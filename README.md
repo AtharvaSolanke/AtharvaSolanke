@@ -6,7 +6,7 @@
 
 <h3 align="center">
         Full Stack Developer 💻 Cloud and DevOps 🌐
-        <h2>🌐atharvasolanke.in</h2>
+        <p align="center">🌐atharvasolanke.in</p>
 </h3>
     
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=atharvasolanke&label=Profile%20views&color=0e75b6&style=flat" alt="atharvasolanke"/> </p>
